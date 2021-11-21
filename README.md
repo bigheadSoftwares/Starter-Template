@@ -1,4 +1,4 @@
-# kynd_shop
+# Starter Template
 
 A new Flutter project.
 
